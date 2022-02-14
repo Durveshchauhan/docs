@@ -2,10 +2,10 @@
 title: Hello World
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
+  fpt: '*ho gaya 
+  ghes: '*'i hack your 
+  ghae: '*'what hack
+  ghec: '*'manav*
 type: quick_start
 topics:
   - Pull requests
